@@ -1,7 +1,6 @@
 # ChatbotTutorial
 ## Pre-Requisites ##
 * Node - https://nodejs.org/en/download/
-*	ngrok - https://ngrok.com/download
 *	BotFramework Emulator - https://github.com/Microsoft/BotFramework-Emulator/releases
 *	JavaScript editor of choice
 
