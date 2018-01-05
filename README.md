@@ -7,8 +7,10 @@
 
 ## Instructions ##
 * Run these commands:
-`npm install --save botbuilder`
-`npm install --save restify`
-`nodemon index.js`
+```
+npm install --save botbuilder
+npm install --save restify
+nodemon index.js
+```
 
 * Open BotFramework Emulator and navigate to `localhost:3978/api/messages`, leaving app id and password blank
