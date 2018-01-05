@@ -7,6 +7,7 @@
 ## Instructions ##
 * Run these commands:
 ```
+npm install -g nodemon
 npm install --save botbuilder
 npm install --save restify
 nodemon index.js
